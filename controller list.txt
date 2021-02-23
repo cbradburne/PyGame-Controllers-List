@@ -1,0 +1,135 @@
+
+*** SteelSeries - Nimbus ***
+
+Name (wireless):
+Unknown Nimbus
+
+Name (wired):
+SteelSeries Nimbus
+
+Axis: 4
+0 = left stick, left -1.0, right 1.0
+1 = left stick, down -1.0, up 1.0
+2 = right stick, left -1.0, right 1.0
+3 = right stick, down -1.0, up 1.0
+
+Buttons: 13
+0 = A
+1 = B
+2 = X
+3 = Y
+4 = L1
+5 = R1
+6 = L2
+7 = R2
+8 = D-pad UP
+9 = D-pad DOWN
+10 = D-pad RIGHT
+11 = D-pad LEFT
+12 = MENU
+
+Hats: 0
+
+
+*** 8BitDo SN30 Pro+ ***
+
+Name (wireless):
+Unknown 8BitDo SN30 Pro+
+
+Name (wired):
+8BitDo SF30 Pro 8BitDo SN30 Pro+
+
+Axis: 4
+0 = left stick, left -1.0, right 1.0
+1 = left stick, up -1.0, down 1.0
+2 = right stick, left -1.0, right 1.0
+3 = right stick, up -1.0, down 1.0
+
+Buttons: 16
+0 = A
+1 = B
+2 = Heart
+3 = X
+4 = Y
+5 = None
+6 = L1
+7 = R1
+8 = L2
+9 = R2
+10 = Select
+11 = Start
+12 = None
+13 = L3
+14 = R3
+15 = None
+
+Hats: 1
+Hat 0 (left -1, right 1, down -1, up 1)
+
+
+*** PS4 DualShock ***
+
+Name (wireless):
+Unknown DUALSHOCK 4 Wireless Controller
+
+Name (wired):
+Sony Computer Entertainment Wireless Controller
+
+Axis: 6
+0 = left stick, left -1.0, right 1.0
+1 = left stick, up -1.0, down 1.0
+2 = right stick, left -1.0, right 1.0
+3 = L2 not pressed -1.0, pressed 1.0
+4 = R2 not pressed -1.0, pressed 1.0
+3 = right stick, up -1.0, down 1.0
+
+Buttons: 14
+0 = Square
+1 = Cross
+2 = Circle
+3 = Triangle
+4 = L1
+5 = R1
+6 = L2 (=1 when axis 3 is >0)
+7 = R2 (=1 when axis 3 is >0)
+8 = Share
+9 = Option
+10 = L3
+11 = R3
+12 = PS
+13 = Pad
+
+Hats: 1
+Hat 0 (left -1, right 1, down -1, up 1)
+
+
+*** Windows XBOX 360 USB Controller *** 
+Using macOS driver https://github.com/360Controller/360Controller
+
+Name:
+Xbox 360 Controller
+
+Axis: 4
+0 = left stick, left -1.0, right 1.0
+1 = left stick, down -1.0, up 1.0
+2 = right stick, left -1.0, right 1.0
+3 = right stick, down -1.0, up 1.0
+
+Buttons: 15
+0 = A
+1 = B
+2 = X
+3 = Y
+4 = L1
+5 = R1
+6 = L3
+7 = R3
+8 = Start
+9 = Back
+10 = XBOX
+11 = D-pad UP
+12 = D-pad DOWN
+13 = D-pad LEFT
+14 = D-pad RIGHT
+
+Hats: 0
